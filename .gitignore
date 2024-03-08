@@ -1,0 +1,5 @@
+data
+src/coverage
+logs
+node_modules
+.env
